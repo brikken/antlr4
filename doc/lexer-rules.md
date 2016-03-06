@@ -255,7 +255,7 @@ WS     : [ \r\t\n]+    -> skip ;
 ```
 
 For multiple 'type()' commands, only the rightmost has an effect.
-channel()
+### channel()
 
 ```
 BLOCK_COMMENT
